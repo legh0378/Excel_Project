@@ -10,6 +10,7 @@ The data is from my Excel course, which provides a foundation in analyzing data 
 
 ### Dashboard File
 My final dashboard is in [Project_1_Salary_Dashboard.xlsx](Project_1_Salary_Dashboard.xlsx).
+See interactive dashboard here: https://1drv.ms/x/c/7285fcc34c341ecd/EUb9nEMkMAJMvdC7sBNd3W0BHLZ5XI0i6bwwfaHvhE9jcg?e=NUJnWO
 
 ### Excel Skills Used
 
